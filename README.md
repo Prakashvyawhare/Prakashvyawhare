@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashvyawhare" alt="prakashvyawhare" /></a> </p>
 
-- 🔭 I’m currently working on [portfolio](https://github.com/Prakashvyawhare/MyResume)
+- 🔭 I’m currently working on [portfolio](https://prakash-vyawhare.netlify.app/)
 
 - 🌱 I’m currently learning **Angular Framework**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-myresume.netlify.app](https://portfolio-myresume.netlify.app)
+- 👨‍💻 All of my projects are available at [https://prakash-vyawhare.netlify.app/](https://prakash-vyawhare.netlify.app/)
 
-- 📫 How to reach me **vyawhareprakash719@gmail.com**
+- 📫 How to reach me **prakashvyawhare2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
